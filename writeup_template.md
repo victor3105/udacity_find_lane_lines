@@ -36,6 +36,6 @@ The accuracy of the lane lines recognition sometimes is insufficient.
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to find a way to average lines more effectively.
+A possible improvement would be to find a way to average lines more effectively (possibly using weighted summing depending on line length).
 
 Another potential improvement could be to decrease light conditions sensitivity using image enhancing techniques.
